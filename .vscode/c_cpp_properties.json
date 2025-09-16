@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Android",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/android-ndk-r28c/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/**",
+                "C:/android-ndk-r28c/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/aarch64-linux-android/**"
+            ],
+            "defines": [
+                "__ANDROID__"
+            ],
+            "compilerPath": "C:/android-ndk-r28c/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-arm64"
+        }
+    ],
+    "version": 4
+}

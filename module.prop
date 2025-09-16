@@ -1,0 +1,7 @@
+id=selene_enhancer
+name=Selene Enhancer
+version=1.0
+versionCode=1
+author=secessuss
+description=Experience a smoother.
+updateJson=https://raw.githubusercontent.com/secessuss/Selene-Enhancer/main/update.json
